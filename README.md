@@ -152,6 +152,10 @@
 
 </br>
 
+[![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arevelo27&show_icons=true&layout=compact&theme=dark)](https://github.com/Arevelo27)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arevelo27&layout=compact&theme=dark)](https://github.com/Arevelo27)
+<img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 
 ## Reach me on:
 
