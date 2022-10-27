@@ -155,5 +155,5 @@
 
 ## Reach me on:
 
-<a target="_blank" href="linkedin.com/in/andrescastillo-ing27"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a target="_blank" href="https://www.linkedin.com/in/andrescastillo-ing27"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a  target="_blank" href="mailto:ing2013andresfe@gmail.com"><img src="https://img.shields.io/badge/Email me-%23EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
