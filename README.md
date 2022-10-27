@@ -156,7 +156,7 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arevelo27&layout=compact&theme=dark)](https://github.com/Arevelo27)
 </br>
-<img src="https://github.com/Arevelo27/Arevelo27/blob/main/vegeta.gif" width="350" />
+<img src="https://github.com/Arevelo27/Arevelo27/blob/main/vegeta.gif" width="350" /> 
 
 ## Reach me on:
 
